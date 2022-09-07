@@ -8,7 +8,7 @@ permalink: /about/
       display: block;
       margin-left: auto;
       margin-right: auto;
-      float: right;
+      float: left;
     }
     </style>
 <img width="200px" class="image-left" src="https://raw.githubusercontent.com/queenculinaire/queenculinaire.github.io/master/images/about/me.jpg">
