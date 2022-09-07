@@ -25,7 +25,9 @@ I also love this recipe because it doesn’t require anything fancy, and you can
 Stone fruit is abundant during the summer, and there’s nothing better than those booze-soaked slices left at the bottom of your glass when you’ve finished this!
 
 ![](/images/white-peach-and-raspberry-sangria/6.jpg)
+
 ---
+
 ### Recipe
 
 #### Ingredients
