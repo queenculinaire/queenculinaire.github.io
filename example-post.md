@@ -1,10 +1,9 @@
-{% assign post_name = "<name of article>" %}
-{% assign img_dir = post_name | split: " " | join: "-" %}
-
 ---
 layout: post
-title: {{ post_name }}
+title: <article title here>
 ---
+{% assign img_dir = "name-of-img-dir" %}
+
 ![](/images/{{ img_dir }}/1.jpg)
 
 
