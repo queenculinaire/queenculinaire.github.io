@@ -56,3 +56,6 @@ I wouldn’t fault you for swirling it through a little ricotta or cream cheese 
 1. If using a rolling pin, simply roll the dough out on a well-floured surface until it reaches about 2mm thickness and you can see the light through it if you hold it up. Once you have rolled all 4 pieces into sheets, cut the pasta into desired width. I love thick ribbons of pappardelle, but if you prefer tagliatelle or linguine then just cut the ribbons slightly closer together, using a sharp, floured knife.
 1. Bring a large pot of salted water to the boil, and cook the pasta for 1 1/2 to 2 minutes, until al dente. Reserve some pasta water, then drain the pasta and mix with a few tablespoons of the pesto and a little pasta water to create a thick sauce.
 1. Top with more parmesan and serve!
+
+#### Notes
+Leftover pesto can be stored in a jar in the fridge for up to a month, just be sure to cover the surface with olive oil to prevent it going mouldy. If you want to scale the pasta recipe up for more people, just use the ratio of 1 egg and 100g flour per person! Leftover, uncooked pasta can be frozen after it has been rolled and cut, then can be dropped straight from frozen into boiling water to cook.
