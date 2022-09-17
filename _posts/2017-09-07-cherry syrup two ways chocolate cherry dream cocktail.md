@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cherry syrup two ways\: chocolate cherry dream cocktail
+title: cherry syrup two ways: chocolate cherry dream cocktail
 ---
 ![](/images/cherry-syrup-two-ways-chocolate-cherry-dream-cocktail/1.jpg)
 {% assign img_dir = "cherry-syrup-two-ways-chocolate-cherry-dream-cocktail" %}
