@@ -11,4 +11,4 @@ Cooking is my passion. I love it. Seeing the expression on someone’s face when
 
  
 
-As well as cooking, I also love entertaining. Party planning is my jam: creating a menu plan, going grocery shopping, whipping up a batch of cocktails and canapés, then getting to enjoy quality time spent with great food and even greater people. What could be better? I am here to help you to become the hostess with the mostess, absolutely stress free. Because nothing ruins a party quicker than stress! Do like R Kelly guys, happy people!
+As well as cooking, I also love entertaining. Party planning is my jam: creating a menu plan, going grocery shopping, whipping up a batch of cocktails and canapés, then getting to enjoy quality time spent with great food and even greater people. What could be better? I am here to help you to become the hostess with the mostess, absolutely stress free. Because nothing ruins a party quicker than stress!
