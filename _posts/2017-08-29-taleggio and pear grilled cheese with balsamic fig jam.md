@@ -48,6 +48,8 @@ Indulge yourself.
 ![](/images/{{ img_dir }}/12.jpg)
 
 ### Recipes
+Serves: 2 as lunch or 4 as a snack
+Cooking time: 30 mins
 #### Ingredients
 + For the jam:
   + 1 cup chopped figs

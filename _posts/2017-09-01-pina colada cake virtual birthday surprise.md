@@ -46,6 +46,8 @@ But I totally haven’t ever done that…
 Happy Birthday Mum! Sending all my love from across the pond!
 
 ### Recipes
+Serves: 8
+Cooking time: 1 hour (cake) + 20 mins (frosting) plus cooling time
 #### Ingredients
 + for the cake:
   + 2 large eggs

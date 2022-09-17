@@ -35,6 +35,8 @@ I wouldn’t fault you for swirling it through a little ricotta or cream cheese 
 ---
 
 ### Recipe
+Serves: 2
+Cooking time: 45 minutes plus 30 minutes resting time
 #### Ingredients
 + for the pasta:
   + 200g all purpose flour
