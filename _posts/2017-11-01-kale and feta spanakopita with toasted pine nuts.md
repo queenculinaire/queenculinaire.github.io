@@ -4,7 +4,6 @@ title: kale and feta spanakopita with toasted pine nuts
 ---
 ![](/images/kale-and-feta-spanakopita-with-toasted-pine-nuts/1.jpg)
 {% assign img_dir = "kale-and-feta-spanakopita-with-toasted-pine-nuts" %}
-
 Before we start talking about kale, I’m just going to vent all my festive excitement for you. Well, boy am I glad that the “Halloween season” is officially over, and we can focus on the real deal: CHRISTMAS!! I know it’s nearly two months away but I am already SO excited. I’m currently pondering what colour theme to decorate the tree with. Any suggestions? I’m so tempted by a rose gold theme but I know that I really shouldn’t go out and buy a whole tree-worth of new decorations. I’m such a bauble-hoarder. Tucked away in boxes I already have stuff for red, white, gold, silver, purple, black… The list goes on.
 
 ![](/images/{{ img_dir }}/2.jpg)

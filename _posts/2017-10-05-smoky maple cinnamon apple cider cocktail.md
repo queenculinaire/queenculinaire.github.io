@@ -4,9 +4,9 @@ title: smoky maple cinnamon apple cider cocktail
 ---
 ![](/images/smoky-maple-cinnamon-apple-cider-cocktail/1.jpg)
 {% assign img_dir = "smoky-maple-cinnamon-apple-cider-cocktail" %}
-![](/images/{{ img_dir }}/2.jpg)
-
 All the cozy fall ingredients. All in one cocktail. Happy humpday guys! This one is easy to throw together and tastes like one of those fancy cocktails you’d pay $15 for in a snazzy bar. It also tastes like autumn. Thick knitted sweaters, trees shedding their burnished copper leaves, bonfires and fireworks, afternoons by the fire getting stuck into a new book, the sound of the rain tapping against the windows.
+
+![](/images/{{ img_dir }}/2.jpg)
 
 ![](/images/{{ img_dir }}/3.jpg)
 

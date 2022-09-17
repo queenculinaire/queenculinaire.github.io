@@ -3,7 +3,6 @@ layout: post
 title: fresh egg pasta with kale pesto
 ---
 ![](/images/fresh-egg-pasta-with-kale-pesto/1.jpg)
-
 Hey guys, just a little warning early on. I love pasta. If I could, I would eat it every single day. It is such a versatile food, and guaranteed to make you feel cozy and comforted no matter what kind of sauce you throw on there. Also, you get to top it with a glorious showering of my other favourite food group. CHEESE. What could be more delicious?! I can let you in on a secret; the answer is FRESH pasta! I love the chewy bite you get with a mouthful of perfectly cooked, al dente pasta, and when it comes to that bite, nothing can beat a fresh egg pasta.
 
 ![](/images/fresh-egg-pasta-with-kale-pesto/2.jpg)

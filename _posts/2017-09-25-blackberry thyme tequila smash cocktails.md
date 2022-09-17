@@ -4,9 +4,11 @@ title: blackberry thyme tequila smash cocktails
 ---
 ![](/images/blackberry-thyme-tequila-smash-cocktails/1.jpg)
 {% assign img_dir = "blackberry-thyme-tequila-smash-cocktails" %}
+So things have been pretty busy here. We just got back from an amazing weekend in Austin, more on that later this week! I can’t wait to share all my restaurant recommendations with you guys. We truly had some insanely good food while we were there. Just thinking about it is making me hungry. I whipped up these blackberry thyme tequila smash cocktails late last week. 
+
 ![](/images/{{ img_dir }}/2.jpg)
 
-So things have been pretty busy here. We just got back from an amazing weekend in Austin, more on that later this week! I can’t wait to share all my restaurant recommendations with you guys. We truly had some insanely good food while we were there. Just thinking about it is making me hungry. I whipped up these blackberry thyme tequila smash cocktails late last week. They were the perfect little segway into our long weekend away. Oh were they delicious. Like a margarita but fruitier and more aromatic with the thyme. So easy to make too! I maybe went a little wild on the garnishes but hey, that’s what cocktails are for right!?
+They were the perfect little segway into our long weekend away. Oh were they delicious. Like a margarita but fruitier and more aromatic with the thyme. So easy to make too! I maybe went a little wild on the garnishes but hey, that’s what cocktails are for right!?
 
 ![](/images/{{ img_dir }}/3.jpg)
 

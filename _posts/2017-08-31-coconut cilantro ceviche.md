@@ -4,7 +4,6 @@ title: coconut cilantro ceviche
 ---
 ![](/images/coconut-cilantro-ceviche/1.jpg)
 {% assign img_dir = "coconut-cilantro-ceviche" %}
-
 Well hello there. Coming at you with the three Cs today. Because is there really anything that doesn’t improve with the addition of coconut? Cocktails, cake (more on that tomorrow), cream pie, ice cream…I could go on.
 
 There is something so evocative of balmy tropical shores when you combine creamy coconut, a hint of spice, a zing of lime and some ripe juicy mango. Just to remind you before you go all piña colada on me, this is a fish dish guys. Ceviche! The best and easiest fish dish because there is absolutely ZERO cooking. Just a bit of chopping, squeezing and mixing!

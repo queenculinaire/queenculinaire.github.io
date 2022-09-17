@@ -4,9 +4,11 @@ title: pumpkin spice carrot cake with cream cheese frosting
 ---
 ![](/images/pumpkin-spice-carrot-cake-with-cream-cheese-frosting/1.jpg)
 {% assign img_dir = "pumpkin-spice-carrot-cake-with-cream-cheese-frosting" %}
+Sorry for being MIA the last few days guys! My boyfriend just finished up his dissertation so we took a little time out to relax and celebrate. And in true celebratory fashion, I bring you cake! Pumpkin spice carrot cake with cream cheese frosting to be precise! 
+
 ![](/images/{{ img_dir }}/2.jpg)
 
-Sorry for being MIA the last few days guys! My boyfriend just finished up his dissertation so we took a little time out to relax and celebrate. And in true celebratory fashion, I bring you cake! Pumpkin spice carrot cake with cream cheese frosting to be precise! I dived head first into fall aka pumpkin spice season and made this little beauty for you. It’s pumpkin, spice and everything nice. There’s even some extra veggies in there, so this cake is basically as healthy as your green kale-stravaganza smoothie.
+I dived head first into fall aka pumpkin spice season and made this little beauty for you. It’s pumpkin, spice and everything nice. There’s even some extra veggies in there, so this cake is basically as healthy as your green kale-stravaganza smoothie.
 
 ![](/images/{{ img_dir }}/3.jpg)
 

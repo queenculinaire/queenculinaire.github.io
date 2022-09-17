@@ -4,10 +4,9 @@ title: spiced apple cake pie
 ---
 ![](/images/spiced-apple-cake-pie/1.jpg)
 {% assign img_dir = "spiced-apple-cake-pie" %}
+Yes, you read that correctly. Apple cake pie. Because why have just a cake, when you can have one inside a pie?! Best of both worlds. I’m definitely one of those people who finds it hard to make a decision when it comes to dessert, and I was really struggling between all these gorgeous dutch apple cakes I keep seeing on insta, and a classic apple pie.
 
 ![](/images/{{ img_dir }}/2.jpg)
-
-Yes, you read that correctly. Apple cake pie. Because why have just a cake, when you can have one inside a pie?! Best of both worlds. I’m definitely one of those people who finds it hard to make a decision when it comes to dessert, and I was really struggling between all these gorgeous dutch apple cakes I keep seeing on insta, and a classic apple pie.
 
 ![](/images/{{ img_dir }}/3.jpg)
 

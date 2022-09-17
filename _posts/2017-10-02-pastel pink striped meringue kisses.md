@@ -4,9 +4,9 @@ title: pastel pink striped meringue kisses
 ---
 ![](/images/pastel-pink-striped-meringue-kisses/1.jpg)
 {% assign img_dir = "pastel-pink-striped-meringue-kisses" %}
-![](/images/{{ img_dir }}/2.jpg)
-
 Time for something pretty, pink and delicate. Meringue kisses! These little beauties are easy to whip up and ideal if you have just made my [pandan ice-cream](https://queenculinaire.com/recipe/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/) and are looking for something to do with all those egg whites. They also make great party favours or a replacement for a wedding cake. Meringue is also fat-free. As if you needed any other persuasion.
+
+![](/images/{{ img_dir }}/2.jpg)
 
 ![](/images/{{ img_dir }}/3.jpg)
 

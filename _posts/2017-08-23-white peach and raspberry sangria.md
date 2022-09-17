@@ -3,7 +3,6 @@ layout: post
 title: white peach and raspberry sangria
 ---
 ![](/images/white-peach-and-raspberry-sangria/1.jpg)
-
 So, summer is officially upon us. I am in England for the moment, and in traditional English fashion, I can’t help but start the conversation with the weather, typical Brit. Anyway, the evenings are drawing out longer and longer, giving us so much more time to enjoy one of the best things about summer…cocktails!
 
 ![](/images/white-peach-and-raspberry-sangria/2.jpg)

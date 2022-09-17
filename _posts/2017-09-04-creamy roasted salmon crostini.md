@@ -4,10 +4,9 @@ title: creamy roasted salmon crostini
 ---
 ![](/images/creamy-roasted-salmon-crostini/1.jpg)
 {% assign img_dir = "creamy-roasted-salmon-crostini" %}
+Happy weekend guys! Before I get onto the salmon I just wanted to tell you what I’ve been up to! This weekend is pretty special because I get to attend my boyfriend’s childhood best friend’s wedding! Shoutout to Parker and Brady! We had the rehearsal dinner last night which is a first for me as a Brit! We don’t have a tradition of rehearsal dinners in the UK, but it was absolutely lovely. Seems like a great idea, why not have more celebrations if you can!?
 
 ![](/images/{{ img_dir }}/2.jpg)
-
-Happy weekend guys! Before I get onto the salmon I just wanted to tell you what I’ve been up to! This weekend is pretty special because I get to attend my boyfriend’s childhood best friend’s wedding! Shoutout to Parker and Brady! We had the rehearsal dinner last night which is a first for me as a Brit! We don’t have a tradition of rehearsal dinners in the UK, but it was absolutely lovely. Seems like a great idea, why not have more celebrations if you can!?
 
 ![](/images/{{ img_dir }}/3.jpg)
 

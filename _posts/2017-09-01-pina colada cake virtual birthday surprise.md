@@ -4,10 +4,11 @@ title: piña colada cake virtual birthday surprise
 ---
 ![](/images/pina-colada-cake-virtual-birthday-surprise/1.jpg)
 {% assign img_dir = "pina-colada-cake-virtual-birthday-surprise" %}
+This post is a little different. As you may know, I am spending the summer in Texas, and yet again I will be missing my mother’s birthday. She has supported me endlessly, and provided for me selflessly my entire life. So I wanted to do a little something to show her how loved she is and how thankful I am to have her, from several thousand miles away. 
 
 ![](/images/{{ img_dir }}/2.jpg)
 
-This post is a little different. As you may know, I am spending the summer in Texas, and yet again I will be missing my mother’s birthday. She has supported me endlessly, and provided for me selflessly my entire life. So I wanted to do a little something to show her how loved she is and how thankful I am to have her, from several thousand miles away. A virtual birthday cake seemed like the perfect idea (plus, I get to eat the cake!) so after much brain storming, I settled on this one. Now if you asked my mother what her favourite cocktail was, she’d say margarita. It’s a no-brainer. But then I remembered that if she’s feeling extra indulgent, she usually opts for a piña colada.
+A virtual birthday cake seemed like the perfect idea (plus, I get to eat the cake!) so after much brain storming, I settled on this one. Now if you asked my mother what her favourite cocktail was, she’d say margarita. It’s a no-brainer. But then I remembered that if she’s feeling extra indulgent, she usually opts for a piña colada.
 
 ![](/images/{{ img_dir }}/3.jpg)
 

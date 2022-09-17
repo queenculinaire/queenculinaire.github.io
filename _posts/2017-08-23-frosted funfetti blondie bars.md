@@ -3,7 +3,6 @@ layout: post
 title: frosted funfetti blondie bars
 ---
 ![](/images/frosted-funfetti-blondie-bars/1.jpg)
-
 So I’ll let you guys in on a secret, a very sad secret. Back in the UK, where I’m from, we don’t have sprinkles like this. At all. Funfetti is not a thing. Just let that sink in a little. I know that these sprinkles are only so colourful because of the artificial colourings (which are not permitted in the UK, unfortunately), but they are so pretty! So I knew that one of the first things I had to bake for the blog was something funfetti!
 
 ![](/images/frosted-funfetti-blondie-bars/2.jpg)

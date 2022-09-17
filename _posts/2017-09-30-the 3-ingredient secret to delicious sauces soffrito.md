@@ -4,9 +4,9 @@ title: the 3-ingredient secret to delicious sauces--soffrito
 ---
 ![](/images/the-3-ingredient-secret-to-delicious-sauces-soffrito/1.jpg)
 {% assign img_dir = "the-3-ingredient-secret-to-delicious-sauces-soffrito" %}
-![](/images/{{ img_dir }}/2.jpg)
-
 Coming at you today with a real killer. Seriously, this will crank your food up a couple of notches. You’ll have everyone asking you what your secret is. Soffrito! So basically, soffrito is a combination of onion, celery and carrot that is frequently used in Italian food. In France they call it mirepoix, and there are tons of other variations too. You may well have heard of the “holy trinity” in Cajun cooking. It’s basically the same as soffrito, but with bell peppers in place of the carrots. In Spain, they call it sofrito and use tomatoes.
+
+![](/images/{{ img_dir }}/2.jpg)
 
 ![](/images/{{ img_dir }}/3.jpg)
 
