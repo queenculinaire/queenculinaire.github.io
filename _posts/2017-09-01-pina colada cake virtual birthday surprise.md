@@ -2,7 +2,8 @@
 layout: post
 title: piña colada cake virtual birthday surprise
 ---
-![](/images/{{ img_dir }}/1.jpg)
+![](/images/pina-colada-cake-virtual-birthday-surprise/1.jpg)
+{% assign img_dir = "pina-colada-cake-virtual-birthday-surprise" %}
 
 ![](/images/{{ img_dir }}/2.jpg)
 
@@ -88,5 +89,3 @@ Happy Birthday Mum! Sending all my love from across the pond!
 
 #### Notes
 *Egg whites - I like to weigh them, it is so much more precise as "large" eggs can vary a lot. *For the frosting, get the butter out of the fridge before you start prepping the rest of the ingredients and it should be just right by the time you use it. *Crumb coat - It is much tidier to frost your cake in two layers, the first of which is mainly to stick all the annoying run-away crumbs to the cake!
-
-{% assign img_dir = "pina-colada-cake-virtual-birthday-surprise" %}
