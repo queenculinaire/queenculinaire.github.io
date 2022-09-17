@@ -22,7 +22,7 @@ Of course, I headed straight to the king of ice cream, [David Lebovitz](https://
 
 Of course, I couldn’t just make ice cream, we have to have sauce and toppings too. I figured that coconut would go nicely with the tropical nutty pandan flavour, and chocolate is always good with ice cream. Be careful when you toast up those sweetened coconut shreds though! The sugar in them caramelises quick. The smell is fantastic though. I’ll let you know when my kitchen scents candle range releases. Oh I wish.
 
-![](/images/{{ img_dir }}/7.jpg)
+![](/images/{{ img_dir }}/7.gif)
 
 ### Recipe
 + Serves: 1 quart ice cream, 2 1/2 cups sauce
