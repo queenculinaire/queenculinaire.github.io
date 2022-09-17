@@ -54,7 +54,10 @@ title: <article title here>
 
 ### Recipe
 + Serves: 
-+ Cooking Time: 
++ Time:
+  + Prep:
+  + Cook:
+  + Passive:  
 #### Ingredients
 + test
   + test
