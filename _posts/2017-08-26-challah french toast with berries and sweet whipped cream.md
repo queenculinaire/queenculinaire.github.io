@@ -4,7 +4,7 @@ title: challah french toast with berries and sweet whipped cream
 ---
 {% assign img_dir = "challah-french-toast-with-berries-and-sweet-whipped-cream" %}
 
-![](/images/{{ img_dir }}/1.jpg)
+![](/images/challah-french-toast-with-berries-and-sweet-whipped-cream/1.jpg)
 
 If I told you I was supposed be on a healthy eating kick, would you even believe me now? Sometimes, you just have to sacrifice for the good of others, so you make them the best french toast ever. This all started with a trip to Japan in 2016. You also probably wouldn’t believe me if I told you that we had the best french toast of our lives in Tokyo would you? Well, there is this hidden away little café, down a flight of stairs in a basement, called Café Aaliya, where they pretty much ONLY serve french toast. It can be hard to find Western breakfast options in Japan as the Japanese are not really that into the first meal of the day, but this was a real unexpected treat.
 

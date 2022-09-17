@@ -4,7 +4,7 @@ title: taleggio and pear grilled cheese with balsamic fig jam
 ---
 {% assign img_dir = "taleggio-and-pear-grilled-cheese-with-balsamic-fig-jam" %}
 
-![](/images/{{ img_dir }}/1.jpg)
+![](/images/taleggio-and-pear-grilled-cheese-with-balsamic-fig-jam/1.jpg)
 
 So first up, an apology to the vegans out there. I will admit that I suffer from a crippling cheese addiction. I must have been the only child out there that actually would not eat mild cheddar sandwiches because they didn’t taste of anything. I like my cheese flavours bold and robust. I also like my cheese melty, be that in mac and cheese form or grilled cheese form, or even just cheese broiled on a pyrex plate. I have my mother to thank for that last one, as if I needed any more encouragement to consume more cheese. If you have never had taleggio before and you are also a fan of melty cheese, I suggest you hunt it down asap. It has a fairly strong, fruity flavour and is perfect in a grilled cheese, or melted onto crostini if you need your cheese in slightly smaller doses.
 
