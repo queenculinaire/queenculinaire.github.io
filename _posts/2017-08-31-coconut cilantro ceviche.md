@@ -2,9 +2,8 @@
 layout: post
 title: coconut cilantro ceviche
 ---
-{% assign img_dir = "coconut-cilantro-ceviche" %}
-
 ![](/images/coconut-cilantro-ceviche/1.jpg)
+{% assign img_dir = "coconut-cilantro-ceviche" %}
 
 Well hello there. Coming at you with the three Cs today. Because is there really anything that doesn’t improve with the addition of coconut? Cocktails, cake (more on that tomorrow), cream pie, ice cream…I could go on.
 

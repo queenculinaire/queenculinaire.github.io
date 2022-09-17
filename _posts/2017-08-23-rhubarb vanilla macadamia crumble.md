@@ -2,9 +2,8 @@
 layout: post
 title: rhubarb vanilla macadamia crumble
 ---
-{% assign img_dir = "rhubarb-vanilla-macadamia-crumble" %}
-
 ![](/images/rhubarb-vanilla-macadamia-crumble/1.jpg)
+{% assign img_dir = "rhubarb-vanilla-macadamia-crumble" %}
 
 Well, we are officially halfway through the week, just that bit closer to the weekend, and I know dessert is on your mind. If you are as food-mad as I am, weekends mean one thing and one thing only. Cooking time! Having more time and less pressure than you have on weeknights means that you can get the creative juices flowing and whip up something delicious. If you want to slide into the weekend pretty lazily, or you just can’t be bothered with yeast and rising times and dough and kneading… then this is your weekend project. Your Friday night project – crumble! Crumble is an English tradition, and you can make it Summer or Winter, with whatever fruit you have on hand. I personally love rhubarb for its balance of sweetness and acidity that pairs so well with the crunchy, buttery topping. It also grows like crazy in my mother’s garden in England, so it is thanks to her green fingers that I got to make this for you guys!
 
