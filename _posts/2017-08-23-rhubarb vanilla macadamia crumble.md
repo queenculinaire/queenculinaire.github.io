@@ -23,9 +23,9 @@ I love making English desserts for people here in the US, but it nearly always l
 
 ![](/images/{{ img_dir }}/5.jpg)
 
-### Recipes
-Serves: 4
-Cooking time: 40 mins
+### Recipe
++ Serves: 4
++ Cooking time: 40 mins
 #### Ingredients
 + for the filling:
   + 4 cups chopped rhubarb (1 inch cubes)

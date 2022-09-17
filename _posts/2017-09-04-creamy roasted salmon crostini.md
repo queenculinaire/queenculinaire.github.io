@@ -43,9 +43,9 @@ Looks fancy.
 
 Perfect party food!
 
-### Recipes
-Serves: 10 as an hors d'oeuvre
-Cooking time: 30 mins
+### Recipe
++ Serves: 10 as an hors d'oeuvre
++ Cooking time: 30 mins
 #### Ingredients
 + 1/2 lb salmon (I like coho, make sure it is deboned and skinless)
 + 2 tbsp chopped chives

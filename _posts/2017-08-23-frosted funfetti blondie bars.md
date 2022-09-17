@@ -25,8 +25,8 @@ I found that it was a great ice-breaker, and who doesn’t like the person who t
 This will be the first funfetti post of many, I assure you. I may have already begun perusing the interwebs for those fancy, custom-blend sprinkles that I keep seeing on Instagram…
 
 ### Recipe
-Serves: 10-12
-Cooking time: 25 mins plus cooling time
++ Serves: 10-12
++ Cooking time: 25 mins plus cooling time
 #### Ingredients
 + for the blondie bars:
   + 2oz cream cheese

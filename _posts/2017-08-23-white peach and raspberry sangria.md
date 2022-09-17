@@ -29,8 +29,8 @@ Stone fruit is abundant during the summer, and there’s nothing better than tho
 ---
 
 ### Recipe
-Serves: 4
-Cooking time: 15 mins
++ Serves: 4
++ Cooking time: 15 mins
 #### Ingredients
 + 1 bottle sweet white wine (like Liebfraumilch or Riesling)
 + 1 cup Triple Sec or Cointreau

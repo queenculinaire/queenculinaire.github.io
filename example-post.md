@@ -2,10 +2,8 @@
 layout: post
 title: <article title here>
 ---
-{% assign img_dir = "name-of-img-dir" %}
-
 ![](/images/{{ img_dir }}/1.jpg)
-
+{% assign img_dir = "name-of-img-dir" %}
 
 
 ![](/images/{{ img_dir }}/2.jpg)
@@ -34,7 +32,9 @@ title: <article title here>
 
 ![](/images/{{ img_dir }}/8.jpg)
 
-### Recipes
+### Recipe
++ Serves: 
++ Cooking Time: 
 #### Ingredients
 + test
   + test

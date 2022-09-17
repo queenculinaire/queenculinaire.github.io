@@ -50,9 +50,9 @@ So after rather a long post, I will leave you with a few tips!
 
 ![](/images/{{ img_dir }}/12.jpg)
 
-### Recipes
-Serves: 4
-Cooking time: 20 minutes prep + 12 hours resting time + 5 mins cooking time
+### Recipe
++ Serves: 4
++ Cooking time: 20 minutes prep + 12 hours resting time + 5 mins cooking time
 #### Ingredients
 + for the toast:
   + 1 loaf challah bread, frozen for at least 6 hours

@@ -39,9 +39,9 @@ Now, finally, how to eat it. If you’re not already halfway through the bowl wi
 
 ![](/images/{{ img_dir }}/9.jpg)
 
-### Recipes
-Serves: 4
-Cooking time: 30 mins
+### Recipe
++ Serves: 4
++ Cooking time: 30 mins
 #### Ingredients
 + 1.5 lb firm white fish (I used grouper)
 + juice of 4 limes
