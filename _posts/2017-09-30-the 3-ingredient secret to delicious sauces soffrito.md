@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the 3-ingredient secret to delicious sauces: soffrito
+title: the 3-ingredient secret to delicious sauces--soffrito
 ---
 ![](/images/the-3-ingredient-secret-to-delicious-sauces-soffrito/1.jpg)
 {% assign img_dir = "the-3-ingredient-secret-to-delicious-sauces-soffrito" %}

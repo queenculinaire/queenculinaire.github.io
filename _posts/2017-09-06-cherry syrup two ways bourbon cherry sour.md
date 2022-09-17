@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cherry syrup two ways: bourbon cherry sour
+title: cherry syrup two ways--bourbon cherry sour
 ---
 ![](/images/cherry-syrup-two-ways-bourbon-cherry-sour/1.jpg)
 {% assign img_dir = "cherry-syrup-two-ways-bourbon-cherry-sour" %}
