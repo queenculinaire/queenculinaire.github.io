@@ -2,8 +2,8 @@
 layout: post
 title: a weekend in Austin -- where to eat, drink, shop and stay
 ---
-![](/images/{{ img_dir }}/1.jpg)
-{% assign img_dir = "name-of-img-dir" %}
+![](/images/a-weekend-in-Austin-where-to-eat-drink-shop-and-stay/1.jpg)
+{% assign img_dir = "a-weekend-in-Austin-where-to-eat-drink-shop-and-stay" %}
 Wow, I have been meaning to post this for a seriously long time. So here you have it, the long awaited travel guide to Austin! I lived in Austin for a year while I studied at UT Law School, so I got to know my way round pretty well. Being an avid foodie I took every opportunity to try new restaurants and bars, so I thought I should let you guys in on it too. I was back in Texas over the summer, in Dallas, so it seemed natural that we should take a trip to Austin to reminisce a little and have some good food. My boyfriend lived in Austin for 5 years, so our combined expertise is pretty far-reaching. I’ll give you the run down on where we visited this time around, then list a couple more places that I love and that you shouldn’t miss out on!
 
 ### Where to eat in Austin:
