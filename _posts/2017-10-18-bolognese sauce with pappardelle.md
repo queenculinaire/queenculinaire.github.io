@@ -28,7 +28,7 @@ Now is definitely the time for big steaming bowls of slow-cooked goodness, and c
 
 ![](/images/{{ img_dir }}/8.jpg)
 
-You can either serve this with [homemade pappardelle](https://queenculinaire.com/2017/08/23/fresh-egg-pasta-with-kale-pesto/), or store bought if you want something quicker!
+You can either serve this with [homemade pappardelle](https://queenculinaire.github.io/fresh-egg-pasta-with-kale-pesto/), or store bought if you want something quicker!
 
 ### Recipe
 + Serves: 8

@@ -26,7 +26,7 @@ They’re also a great budget-friendly option to decorate with. You can buy big 
 
 ![](/images/{{ img_dir }}/8.jpg)
 
-If you’re looking for more Christmas cocktails, the White Christmas Coconut Margarita recipe is [here](https://queenculinaire.com/recipe/white-christmas-coconut-margaritas/), and the Ruby Pomegranate Spritz is [here](https://queenculinaire.com/2017/11/12/ruby-pomegranate-spritz/)!
+If you’re looking for more Christmas cocktails, the White Christmas Coconut Margarita recipe is [here](https://queenculinaire.github.io/white-christmas-coconut-margaritas/), and the Ruby Pomegranate Spritz is [here](https://queenculinaire.github.io/ruby-pomegranate-spritz/)!
 
 ### Recipe
 + Serves: 1

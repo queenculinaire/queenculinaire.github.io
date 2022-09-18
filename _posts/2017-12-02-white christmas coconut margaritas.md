@@ -32,7 +32,7 @@ Speaking of family and friends, make sure you make time to see them over the hol
 
 ![](/images/{{ img_dir }}/9.gif)
 
-PS – if you want to make your own sugar syrup, find out how [here](https://queenculinaire.com/2017/08/23/white-peach-and-raspberry-sangria/)!
+PS – if you want to make your own sugar syrup, find out how [here](https://queenculinaire.github.io/white-peach-and-raspberry-sangria/)!
 
 ### Recipe
 + Serves: 1

@@ -8,7 +8,7 @@ Cherry. Chocolate. Vodka. Your new three favourite words. So just for you, I mad
 
 ![](/images/{{ img_dir }}/2.jpg)
 
-So if you saw the [first post](https://queenculinaire.com/2017/09/06/cherry-syrup-bourbon-cherry-sour/) on cherry syrup, then you’ll know that I promised you a creamy, dreamy dessert cocktail today. So here it is! If you like chocolate and you like cherries then this is gonna be your jam. Well, your drink. It is SO easy, uses only 4 ingredients, and tastes so naughty.
+So if you saw the [first post](https://queenculinaire.github.io/cherry-syrup-two-ways-bourbon-cherry-sour/) on cherry syrup, then you’ll know that I promised you a creamy, dreamy dessert cocktail today. So here it is! If you like chocolate and you like cherries then this is gonna be your jam. Well, your drink. It is SO easy, uses only 4 ingredients, and tastes so naughty.
 
 ![](/images/{{ img_dir }}/3.jpg)
 
@@ -26,7 +26,7 @@ And they are gonna want to recreate this one at home. So go, make it! Quickly be
 
  
 
-Ps. For the cherry syrup recipe, see my last post [here](https://queenculinaire.com/2017/09/06/cherry-syrup-bourbon-cherry-sour/).
+Ps. For the cherry syrup recipe, see my last post [here](https://queenculinaire.github.io/cherry-syrup-two-ways-bourbon-cherry-sour/).
 
 ### Recipe
 + Serves: 2

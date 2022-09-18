@@ -12,7 +12,7 @@ If bowls are your thing, pour it out into a bowl rather than a glass and top wit
 
 ![](/images/{{ img_dir }}/3.jpg)
 
-For those of you who regularly read my blog, you’ll already know that I’m a big fan of turmeric. If you’re looking for something warming and caffeine-free, give these [lattes](https://queenculinaire.com/recipe/vegan-pumpkin-spice-turmeric-lattes/) a go! And if you’re wondering why there’s black pepper in your smoothie, then you can find all the info in that post!
+For those of you who regularly read my blog, you’ll already know that I’m a big fan of turmeric. If you’re looking for something warming and caffeine-free, give these [lattes](https://queenculinaire.github.io/vegan-pumpkin-spice-turmeric-lattes/) a go! And if you’re wondering why there’s black pepper in your smoothie, then you can find all the info in that post!
 
 ![](/images/{{ img_dir }}/4.jpg)
 
@@ -20,7 +20,7 @@ Changing habits can be tough. So if you’re a die-hard Pumpkin Spice Latte fan,
 
 ![](/images/{{ img_dir }}/5.jpg)
 
-The mason jar is reusable and you haven’t already spent $9 by the time you sit down to start work. They do say the New Year is a great time to break bad habits and start new ones, and that doesn’t just have to be about cutting out meat or dairy or grains. It can also be about becoming more environmentally conscious. Those dollar bills that you save each morning, set them aside. Then at the end of each month pick a local charity to donate to, or put it in a savings account to go towards something special. See [this post](https://queenculinaire.com/recipe/white-christmas-coconut-margaritas/) for more on how I approached the festive season with this attitude in mind in 2017. Happy New Year everyone!
+The mason jar is reusable and you haven’t already spent $9 by the time you sit down to start work. They do say the New Year is a great time to break bad habits and start new ones, and that doesn’t just have to be about cutting out meat or dairy or grains. It can also be about becoming more environmentally conscious. Those dollar bills that you save each morning, set them aside. Then at the end of each month pick a local charity to donate to, or put it in a savings account to go towards something special. See [this post](https://queenculinaire.github.io/white-christmas-coconut-margaritas/) for more on how I approached the festive season with this attitude in mind in 2017. Happy New Year everyone!
 
 ![](/images/{{ img_dir }}/6.jpg)
 

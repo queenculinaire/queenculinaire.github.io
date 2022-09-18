@@ -32,7 +32,7 @@ And it doesn’t even need churning! I owe this one to my mother, she introduced
 
 ![](/images/{{ img_dir }}/11.jpg)
 
-As I mentioned in my [funfetti blondie bar post](https://queenculinaire.com/2017/08/23/frosted-funfetti-blondie-bars/), I love sprinkles. This love also extends to anything artificially rainbow coloured. So fruity pebbles were going to have to make an appearance on the blog at some point. Now I have tasted the wonders of a fruity pebbles treat, I cannot understand why anyone would make them with plain old rice krispies. And these are SO much prettier! You have to take pleasure in the simple (rainbow-coloured) things in life, right?
+As I mentioned in my [funfetti blondie bar post](https://queenculinaire.github.io/frosted-funfetti-blondie-bars/), I love sprinkles. This love also extends to anything artificially rainbow coloured. So fruity pebbles were going to have to make an appearance on the blog at some point. Now I have tasted the wonders of a fruity pebbles treat, I cannot understand why anyone would make them with plain old rice krispies. And these are SO much prettier! You have to take pleasure in the simple (rainbow-coloured) things in life, right?
 
 ![](/images/{{ img_dir }}/12.jpg)
 

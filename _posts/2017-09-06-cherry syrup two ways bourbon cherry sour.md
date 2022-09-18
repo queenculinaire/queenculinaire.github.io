@@ -8,7 +8,7 @@ Yes, I know it’s September but there are definitely still cherries and berries
 
 ![](/images/{{ img_dir }}/2.jpg)
 
-If you read the [last post](https://queenculinaire.com/2017/09/04/creamy-roasted-salmon-crostini/), then you’ll know that we’re all about entertaining at the moment. So once you’ve whipped up a batch of crostini, invited all your friends over, then all that is left is the drinks! So I have two super easy, ultra seasonal cocktails for you. If you want to make a pitcher, no problem! Just multiply the quantities by how many guests you have and stir everything together with a bar spoon in a jug. Best not to fill the jug with ice if  you’re not going to be pouring everyone’s drink immediately so it doesn’t get too diluted!
+If you read the [last post](https://queenculinaire.github.io/creamy-roasted-salmon-crostini/), then you’ll know that we’re all about entertaining at the moment. So once you’ve whipped up a batch of crostini, invited all your friends over, then all that is left is the drinks! So I have two super easy, ultra seasonal cocktails for you. If you want to make a pitcher, no problem! Just multiply the quantities by how many guests you have and stir everything together with a bar spoon in a jug. Best not to fill the jug with ice if  you’re not going to be pouring everyone’s drink immediately so it doesn’t get too diluted!
 
 ![](/images/{{ img_dir }}/3.jpg)
 

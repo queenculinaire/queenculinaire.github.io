@@ -26,7 +26,7 @@ The crust is really easy. “Whizz it up in the food processor in under 5 minute
 
 ![](/images/{{ img_dir }}/8.jpg)
 
-Because I’m one of those people who is absolutely hooked on salt, I had to see if the contrast between the sweet, perfumed honey and a little flaky sea salt would work. And boy did it work. I’m not one for overly sweet desserts, so this is ideal. Really well-balanced and not too heavy after a big wintry dinner. If you’ve got a glut of apples on your hands and you want something bigger, take a peek at my [apple cake pie](https://queenculinaire.com/recipe/spiced-apple-cake-pie/). Yes, you read that correctly. Enjoy!
+Because I’m one of those people who is absolutely hooked on salt, I had to see if the contrast between the sweet, perfumed honey and a little flaky sea salt would work. And boy did it work. I’m not one for overly sweet desserts, so this is ideal. Really well-balanced and not too heavy after a big wintry dinner. If you’ve got a glut of apples on your hands and you want something bigger, take a peek at my [apple cake pie](https://queenculinaire.github.io/spiced-apple-cake-pie/). Yes, you read that correctly. Enjoy!
 
 ![](/images/{{ img_dir }}/9.jpg)
 

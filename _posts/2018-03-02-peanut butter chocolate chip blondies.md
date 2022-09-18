@@ -16,7 +16,7 @@ Perfect with a steaming hot cuppa. Or a glass of ice cold milk if you live in wa
 
 ![](/images/{{ img_dir }}/4.jpg)
 
-I mentioned in my [last post](https://queenculinaire.com/recipe/blood-orange-rosemary-gin-cocktails/) about starting a new job, which I finally managed to do after getting over my 3 week flu. I’m working at the [Welbeck Farm Shop](https://www.welbeckfarmshop.co.uk/), which is an absolute haven for foodies. The butchery counter is laden with goodies and the beef, oh the beef! The t-bones are worth their weight in gold. So flavoursome. I have been known to forgo any accompaniments and take the meaning of a steak dinner to new levels in the past. You don’t even need anything else when you have a piece of meat like that on your plate.
+I mentioned in my [last post](https://queenculinaire.github.io/blood-orange-rosemary-&-gin-cocktails/) about starting a new job, which I finally managed to do after getting over my 3 week flu. I’m working at the [Welbeck Farm Shop](https://www.welbeckfarmshop.co.uk/), which is an absolute haven for foodies. The butchery counter is laden with goodies and the beef, oh the beef! The t-bones are worth their weight in gold. So flavoursome. I have been known to forgo any accompaniments and take the meaning of a steak dinner to new levels in the past. You don’t even need anything else when you have a piece of meat like that on your plate.
 
 ![](/images/{{ img_dir }}/5.jpg)
 

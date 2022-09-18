@@ -4,7 +4,7 @@ title: pastel pink striped meringue kisses
 ---
 ![](/images/pastel-pink-striped-meringue-kisses/1.jpg)
 {% assign img_dir = "pastel-pink-striped-meringue-kisses" %}
-Time for something pretty, pink and delicate. Meringue kisses! These little beauties are easy to whip up and ideal if you have just made my [pandan ice-cream](https://queenculinaire.com/recipe/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/) and are looking for something to do with all those egg whites. They also make great party favours or a replacement for a wedding cake. Meringue is also fat-free. As if you needed any other persuasion.
+Time for something pretty, pink and delicate. Meringue kisses! These little beauties are easy to whip up and ideal if you have just made my [pandan ice-cream](https://queenculinaire.github.io/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/) and are looking for something to do with all those egg whites. They also make great party favours or a replacement for a wedding cake. Meringue is also fat-free. As if you needed any other persuasion.
 
 ![](/images/{{ img_dir }}/2.jpg)
 
@@ -28,7 +28,7 @@ If you manage not to eat them all straight away, here are a couple of ideas on h
 
 ![](/images/{{ img_dir }}/10.jpg)
 
-I also like melting some dark chocolate and dipping the bases of the meringues in it, then leaving them to set on a parchment lined baking sheet. These make the perfect afternoon pick me up. You can also crush a few meringues and serve them on top of ice cream, preferably with a healthy dose of [coconut chocolate sauce](https://queenculinaire.com/recipe/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/) too!
+I also like melting some dark chocolate and dipping the bases of the meringues in it, then leaving them to set on a parchment lined baking sheet. These make the perfect afternoon pick me up. You can also crush a few meringues and serve them on top of ice cream, preferably with a healthy dose of [coconut chocolate sauce](https://queenculinaire.github.io/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/) too!
 
 ![](/images/{{ img_dir }}/11.jpg)
 

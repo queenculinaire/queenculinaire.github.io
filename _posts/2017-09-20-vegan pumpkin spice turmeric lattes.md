@@ -4,7 +4,7 @@ title: vegan pumpkin spice turmeric lattes
 ---
 ![](/images/vegan-pumpkin-spice-turmeric-lattes/1.jpg)
 {% assign img_dir = "vegan-pumpkin-spice-turmeric-lattes" %}
-Happy Humpday everyone! Today I’m bringing you a slightly less guilty way to get your PSL (pumpkin spice latte, for those not in the know) fix! If you saw my [pumpkin spice carrot cake](https://queenculinaire.com/recipe/pumpkin-spice-carrot-cake-with-cream-cheese-frosting/), you’ll know I did promise a pumpkin spice latte this week. So I came through for you, because I know that the pumpkin cravings are getting stronger as the temperatures drop and the leaves begin to fall, amirite?! Anyway, I don’t think that it would be permissible to say pumpkin spice one more time in this post.
+Happy Humpday everyone! Today I’m bringing you a slightly less guilty way to get your PSL (pumpkin spice latte, for those not in the know) fix! If you saw my [pumpkin spice carrot cake](https://queenculinaire.github.io/pumpkin-spice-carrot-cake-with-cream-cheese-frosting/), you’ll know I did promise a pumpkin spice latte this week. So I came through for you, because I know that the pumpkin cravings are getting stronger as the temperatures drop and the leaves begin to fall, amirite?! Anyway, I don’t think that it would be permissible to say pumpkin spice one more time in this post.
 
 ![](/images/{{ img_dir }}/2.jpg)
 

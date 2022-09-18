@@ -32,7 +32,7 @@ I haven’t used peanut butter in my baking in a while now. A few months ago I w
 
 ![](/images/{{ img_dir }}/10.jpg)
 
-PS – I topped this cake with the coconut chocolate sauce that I made with the pandan ice cream. Get the recipe [here](https://queenculinaire.com/recipe/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/)!
+PS – I topped this cake with the coconut chocolate sauce that I made with the pandan ice cream. Get the recipe [here](https://queenculinaire.github.io/pandan-ice-cream-sundaes-with-coconut-chocolate-sauce/)!
 
 ### Recipe
 + Serves: 12 slices

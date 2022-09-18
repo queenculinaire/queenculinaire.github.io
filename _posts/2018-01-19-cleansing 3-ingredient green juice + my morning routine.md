@@ -14,7 +14,7 @@ I’ve been watching some of those morning routine videos on Youtube recently an
 
 ![](/images/{{ img_dir }}/4.jpg)
 
-Anyway, back to the oats! I like to make mine in the microwave, then I add egg whites and cook until they’re thick and creamy. Stir a little sweetener and cocoa powder through and you are set. So good. If I’m in more of a hurry, I’ll just stir through a scoop of chocolate peanut-butter flavoured protein powder once the oats are cooked. Maybe throw a few raspberries in if there are any lurking in the fridge. Another option is a protein smoothie bowl, something like this [pumpkin spice one](https://queenculinaire.com/recipe/vegan-pumpkin-spice-superfood-protein-smoothies/). I’ll follow up later this month with a few more of my favourite smoothie bowls! I like to top mine with granola, chia seeds, hemp seeds and maybe some berries.
+Anyway, back to the oats! I like to make mine in the microwave, then I add egg whites and cook until they’re thick and creamy. Stir a little sweetener and cocoa powder through and you are set. So good. If I’m in more of a hurry, I’ll just stir through a scoop of chocolate peanut-butter flavoured protein powder once the oats are cooked. Maybe throw a few raspberries in if there are any lurking in the fridge. Another option is a protein smoothie bowl, something like this [pumpkin spice one](https://queenculinaire.github.io/vegan-pumpkin-spice-superfood-protein-smoothie/). I’ll follow up later this month with a few more of my favourite smoothie bowls! I like to top mine with granola, chia seeds, hemp seeds and maybe some berries.
 
 ![](/images/{{ img_dir }}/5.jpg)
 

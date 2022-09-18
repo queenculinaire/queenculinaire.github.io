@@ -18,7 +18,7 @@ It can be difficult after you graduate from university. Whether it’s a new job
 
 ![](/images/{{ img_dir }}/5.jpg)
 
-Anyway, back to the birthday cake! If you’re anything like me, seeing a plain frosted cake is like a glorious blank canvas, just waiting to be adorned. As I’ve mentioned before in [this post](https://queenculinaire.com/2017/08/23/frosted-funfetti-blondie-bars/), I have a really thing for American sprinkles. They are SO bright and colourful and yes, I am the weirdo that brings them back to the UK in my suitcase. I hope you enjoy this cake as much as Sas and I did!
+Anyway, back to the birthday cake! If you’re anything like me, seeing a plain frosted cake is like a glorious blank canvas, just waiting to be adorned. As I’ve mentioned before in [this post](https://queenculinaire.github.io/frosted-funfetti-blondie-bars/), I have a really thing for American sprinkles. They are SO bright and colourful and yes, I am the weirdo that brings them back to the UK in my suitcase. I hope you enjoy this cake as much as Sas and I did!
 
 ![](/images/{{ img_dir }}/6.jpg)
 
